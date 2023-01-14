@@ -1,2 +1,6 @@
 rolePrefix: "{cipher}3d2c1b07b6d7b7902eaf80b7413bb8f201bd63e7c6519891db5cd24c3e19698f"
 alphaAdvantageAPIKey: "{cipher}a89e049aa410450d56bbb557d0036b3a7f145cce0b29aefa80b3faa051c9c6aca62e512aec90e13ddaa6d8b756da19b4"
+SPRING_DATASOURCE_PASSWORD: "password"
+SPRING_DATASOURCE_USERNAME: "user"
+spring.datasource.password: "password"
+spring.datasource.username: "user"
